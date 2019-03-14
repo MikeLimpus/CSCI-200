@@ -1,3 +1,5 @@
+% Cartesian product function as defined in linear-algebra package
+
 function retval = cartProd (varargin)
   if (nargin < 1)
     print_usage ();

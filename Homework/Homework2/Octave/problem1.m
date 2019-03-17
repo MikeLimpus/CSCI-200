@@ -12,5 +12,3 @@ disp("\nc. A (union) B")
 union(A, B)
 disp("\nd. A (intersection) C")
 intersect(A, C)
-
-

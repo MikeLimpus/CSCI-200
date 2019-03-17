@@ -20,4 +20,3 @@ clear
 disp("Problem 18\n B is the inverse of A") 
 A = [7 -8 5; -4 5 -3; 1 -1 1]
 B = inv(A) 
-

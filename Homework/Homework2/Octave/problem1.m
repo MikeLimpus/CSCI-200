@@ -1,5 +1,5 @@
-% Jonathan Limpus
-% Homework 2, Problem 1
+# Jonathan Limpus
+# Homework 2, Problem 1
 A = [1 2 3] 
 B = [4 5] 
 C = [1 6 7] 

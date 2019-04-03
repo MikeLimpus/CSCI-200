@@ -6,5 +6,3 @@ for i in range(sequence[2], len(sequence)):
         new_sequence.append(sequence[i])
 print(sequence)
 print(new_sequence)
-
-  

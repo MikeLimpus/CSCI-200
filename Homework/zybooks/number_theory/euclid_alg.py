@@ -2,9 +2,9 @@
 greatest common denominator of two integers """
 
 
-def gcd(foo, bar):
-    x = foo
-    y = bar
+def gcd(a, b):
+    x = a
+    y = b
     while(y != 0):
         r = x % y
         x = y
